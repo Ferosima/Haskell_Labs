@@ -1,0 +1,1 @@
+filterOdd list = filter (odd) list
